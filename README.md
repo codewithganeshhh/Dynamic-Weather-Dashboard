@@ -2,7 +2,7 @@
 
 A simple and responsive **weather dashboard** that provides **real-time, location-based weather updates** using the **OpenWeatherMap API** and **Geolocation API**.  
 
-🔗 **Live Demo:** [View on GitHub Pages](https://codewwithganeshhh.github.io/weather-dashboard/)  
+🔗 **Live Demo:** [View on GitHub Pages](https://codewithganeshhh.github.io/Dynamic-Weather-Dashboard/)  
 
 ---
 
@@ -19,10 +19,10 @@ A simple and responsive **weather dashboard** that provides **real-time, locatio
 ## 🖼️ Screenshots
 
 ### Current Weather
-![Current Weather Screenshot](https://via.placeholder.com/600x300.png?text=Current+Weather+Dashboard)
+![Current Weather Screenshot](main.png)
 
 ### 5-Day Forecast
-![5-Day Forecast Screenshot](https://via.placeholder.com/600x300.png?text=5-Day+Forecast)
+![5-Day Forecast Screenshot]()
 
 ---
 
@@ -36,8 +36,3 @@ A simple and responsive **weather dashboard** that provides **real-time, locatio
 
 ---
 
-## ⚙️ Setup Instructions
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/weather-dashboard.git
