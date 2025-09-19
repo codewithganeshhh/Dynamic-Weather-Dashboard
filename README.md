@@ -19,10 +19,10 @@ A simple and responsive **weather dashboard** that provides **real-time, locatio
 ## 🖼️ Screenshots
 
 ### Current Weather
-![Current Weather Screenshot](main.png)
+![Current Weather Screenshot](Img/main.png)
 
 ### 5-Day Forecast
-![5-Day Forecast Screenshot]()
+![5-Day Forecast Screenshot](Img/5days.png)
 
 ---
 
